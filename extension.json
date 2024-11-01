@@ -1,0 +1,24 @@
+{
+  "name": {
+    "en": "Transaction purchase order"
+  },
+  "description": {
+    "en": "Adds a purchase order identifier to the transaction object."
+  },
+  "documentationUrl": {
+    "en": "https://github.com/open-contracting-extensions/ocds_transaction_purchaseOrderID_extension/"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ],
+  "dependencies": [
+    "https://gitlab.com/dncp-opendata/ocds_contract_implementation_purchaseOrder_extension/-/raw/master/extension.json",
+  ],
+  "contactPoint": {
+    "name": "Open Contracting Partnership",
+    "email": "data@open-contracting.org"
+  }
+}

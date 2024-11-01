@@ -1,0 +1,17 @@
+{
+  "definitions": {
+    "Transaction": {
+      "properties": {
+        "purchaseOrderID": {
+          "title": "Purchase order identifier",
+          "description": "The identifier of the purchase order under which the transaction is made.",
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1
+        }
+      }
+    }
+  }
+}
