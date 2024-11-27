@@ -15,7 +15,7 @@
     "release-schema.json"
   ],
   "dependencies": [
-    "https://gitlab.com/dncp-opendata/ocds_contract_implementation_purchaseOrder_extension/-/raw/master/extension.json",
+    "https://gitlab.com/dncp-opendata/ocds_contract_implementation_purchaseOrder_extension/-/raw/master/extension.json"
   ],
   "contactPoint": {
     "name": "Open Contracting Partnership",
